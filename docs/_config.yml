@@ -1,3 +1,12 @@
-remote_theme: pages-themes/architect@v0.2.0
+title: "Calisthenics"
+theme: minima
+
+header_pages:
+  - AboutMe.md
+
+markdown: kramdown
+
+repository: "cali"
+
 plugins:
-- jekyll-remote-theme
+  - jemoji

@@ -17,7 +17,7 @@ I saw this guy perform a move where he held his body perpendicular to a pole (wh
 a human flag). This was pretty insane to me at the time and I was just thinking about the level of strength required
 especially since he was only a year older.
 
-![Human Flag](images/humanflag/human-flag-rdm.jpeg)
+<img src="images/humanflag/human-flag-rdm.jpeg" alt="drawing" width="200"/>
 A human flag in action!
 
 This was my first time seeing this and needless to say, it sparked off my interest for picking up this unique set of skills.
