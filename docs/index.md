@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Cali
+title: Calisthenics
 ---
 
-**Website to track calisthenics progress :D** 
+**Calisthenics** 
+
+Hello! This is a work-in-progress site to document my calisthenics journey! :)
