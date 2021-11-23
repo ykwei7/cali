@@ -7,6 +7,7 @@ header_pages:
 markdown: kramdown
 
 repository: "cali"
+github_icon: "images/github-icon.png"
 
 plugins:
   - jemoji
